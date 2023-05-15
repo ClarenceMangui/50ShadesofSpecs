@@ -282,4 +282,7 @@ footer h1{
     .mission-img img{
         width:100%;
     }
+        .email button{
+        width:40vw;
+    }
 }
